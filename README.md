@@ -2,8 +2,8 @@
 
 - I am self-taught in Front End Development
 - I mainly code in HTML, SCSS, JavaScript & React
-- I enjoy adding creativity to the designs of my projects like on my <a href="https://vanilla-js-weather.netlify.app">weather app</a> and <a href="https://lana-gordon-portfolio.netlify.app">portfolio website</a>
-- I also enjoy including personality to projects to make them unique. Check out my <a href="https://roxy-piper-sza-game.netlify.app">Rock, Paper, Scissors</a> spin or my <a href="https://gc-soundboard.netlify.app">LinkedIn</a> soundboard
+- I enjoy adding creativity to the designs of my projects like on my <a href="https://vanilla-js-weather.netlify.app" target="_blank">weather app</a> and <a href="https://lana-gordon-portfolio.netlify.app" target="_blank">portfolio website</a>
+- I also enjoy including personality to projects to make them unique. Check out my <a href="https://roxy-piper-sza-game.netlify.app" target="_blank">Rock, Paper, Scissors</a> spin or my <a href="https://gc-soundboard.netlify.app">Gemma Collins Soundboard</a>.
 - You can connect with me on <a href="https://www.linkedin.com/in/lana-gordon-7a83a286/">LinkedIn</a>
 - Or email me at <a href="mailto:lanagordon03@gmail.com">lanagordon03@gmail.com</a>
 
