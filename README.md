@@ -6,7 +6,7 @@
 - I enjoy adding personality to my projects to make them unique. Check out my <a href="https://roxy-piper-sza-game.netlify.app" target="_blank">Rock, Paper, Scissors</a> spin or my <a href="https://gc-soundboard.netlify.app">GC Soundboard</a>
 
 
-💬 Connect with me on <a href="https://www.linkedin.com/in/lana-gordon-7a83a286/">LinkedIn</a> or by <a href="mailto:lanagordon03@gmail.com">email</a>
+💬 Connect with me on <a href="https://www.linkedin.com/in/lana-gordon-7a83a286/">LinkedIn</a> or by <a href="mailto:lanagordon03@gmail.com">email</a>.
 
 
 <!--
